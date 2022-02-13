@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [KittenLand](https://github.com/Evita-M/kittenland)
 
-- 🌱 I’m currently learning **React.js and Vue.js**
+- 🌱 I’m currently learning **React.js&Typescript and Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Evita-M?tab=repositories](https://github.com/Evita-M?tab=repositories)
 
