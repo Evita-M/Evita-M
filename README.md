@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eva</h1>
-<h3 align="center">A frontend developer from Czechia</h3>
+<h3 align="center">A Frontend developer and UX/UI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evita-m&label=Profile%20views&color=0e75b6&style=flat" alt="evita-m" /> </p>
 
