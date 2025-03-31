@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evita-m" alt="evita-m" /></a> </p>
 
-- 👨‍💻 Check my porfolio on: [http://www.eva-matova.work/](http://www.eva-matova.work/)
+- 👨‍💻 Check my porfolio [http://www.eva-matova.work/](http://www.eva-matova.work/)
 
-- 📝 I regularly write articles on Medium: [https://medium.com/@eva.matova6](https://medium.com/@eva.matova6)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📝 I regularly write articles on Medium [https://medium.com/@eva.matova6](https://medium.com/@eva.matova6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
