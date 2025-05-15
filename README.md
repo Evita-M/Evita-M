@@ -1,15 +1,15 @@
 # Hi, my name is Eva! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
 I’m a product-minded **Software Engineer** who loves turning ideas into polished, scalable, and human-friendly web apps.<br>
-With 4+ years of hands-on experience, I build applications that feel great to use, where thoughtful design meets high performance and bugs fear to tread.&nbsp;🐛
+With 4+ years of hands-on experience, I build applications that feel great to use, where thoughtful design meets high performance and bugs fear to tread&nbsp;🐛
 
 -   🌍  I'm based in Czechia/Greece
 -   🖥️  See my portfolio at [http://www.eva-matova.work/](http://eva-matova.work)
 -   ✉️  You can contact me at [eva.matova6@gmail.com](mailto:eva.matova6@gmail.com)
--   🧠  I'm currently learning Node.js, Express and SQL aka talking to servers and databases
+-   🧠  I'm currently sharpening my skills with Node.js, Express and SQL aka talking to servers and databases
 -   🛠️  Stack I enjoy: React, Next.js, TypeScript, Tailwind CSS, UI/UX, (custom) design systems, Node.js & Express (REST APIs)
 -   🤝  I'm open to collaborating on interesting projects. Half to learn, half to share knowledge and the rest for fun
--   💭  My motto: The only way to do great work is to love what you do. (Steve Jobs)
+-   💭  My motto: _The only way to do great work is to love what you do. (Steve Jobs)_
 -   ⚡  When I’m not perfecting pixels or debugging JS, you’ll find me coaching in [Czechitas](https://www.czechitas.cz/en) or sharing my knowledge on [Medium](https://medium.com/@eva.matova6)
 
 ### Skills 
