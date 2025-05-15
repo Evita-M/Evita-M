@@ -15,7 +15,7 @@ With 4+ years of hands-on experience, I build applications that feel great to us
 ### Skills 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nextjs,jest,bootstrap,html,css,emotion,styledcomponents,svg,tailwind,materialui,regex,sass,figma,git,gmail,codepen,nodejs,cypress,sqlite,notion,discord,,nextjs,babel,pnpm,npm,yarn,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nextjs,jest,bootstrap,html,css,emotion,styledcomponents,svg,tailwind,materialui,regex,sass,figma,git,gmail,codepen,nodejs,cypress,sqlite,notion,discord,nextjs,babel,pnpm,npm,yarn,vite,vscode" />
   </a>
 </p>
                     
