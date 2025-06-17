@@ -6,7 +6,7 @@ With 4+ years of hands-on experience, I build applications that feel great to us
 -   🌍  I'm based in Czechia/Greece
 -   🖥️  See my portfolio at [http://www.eva-matova.work/](http://eva-matova.work)
 -   ✉️  You can contact me at [eva.matova6@gmail.com](mailto:eva.matova6@gmail.com)
--   🧠  Currently I am experimenting with AI agents using OpenAI's API to create an intelligent personal assistants
+-   🧠  Currently I am experimenting with AI agents using OpenAI's API to create intelligent personal assistants
 -   🛠️  Stack I enjoy: React, Next.js, TypeScript, styled-components, RWD, Tailwind CSS, UI/UX, (custom) design systems, Node.js & Express (REST APIs), GraphQL
 -   🤝  I'm open to collaborating on interesting projects. Half to learn, half to share knowledge and the rest for fun
 -   💭  My motto: _The only way to do great work is to love what you do. (Steve Jobs)_
