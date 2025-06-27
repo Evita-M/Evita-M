@@ -1,7 +1,7 @@
 # Hi, my name is Eva! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
 I’m a product-minded **Software Engineer** who loves turning ideas into polished, scalable, and human-friendly web apps.<br>
-With 4+ years of hands-on experience, I build applications that feel great to use, where thoughtful design meets high performance and bugs fear to tread&nbsp;🐛
+With almost 5 years of hands-on experience, I build applications that feel great to use, where thoughtful design meets high performance and bugs fear to tread&nbsp;🐛
 
 -   🌍  I'm based in Czechia/Greece
 -   🖥️  See my portfolio at [http://www.eva-matova.work/](http://eva-matova.work)
