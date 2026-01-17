@@ -1,12 +1,10 @@
 # Hi, my name is Eva! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
-I’m a product-minded **Senior Software Engineer** who loves turning ideas into polished, scalable, and human-friendly web apps.<br>
-With almost 5 years of hands-on experience, I build applications that feel great to use, where thoughtful design meets high performance and bugs fear to tread&nbsp;🐛
+I’m a product-minded **Senior Software Engineer** with 5+ years of hands-on experience who loves turning ideas into polished, scalable, and human-friendly web apps.
 
 -   🌍  I'm based in Czechia/Greece
 -   🖥️  See my portfolio at [http://www.eva-matova.work/](http://eva-matova.work)
 -   ✉️  You can contact me at [eva.matova6@gmail.com](mailto:eva.matova6@gmail.com)
--   🧠  Currently I am experimenting with AI agents using OpenAI's API to create intelligent personal assistants
 -   🤝  I'm open to collaborating on interesting projects. Half to learn, half to share knowledge and the rest for fun
 -   ⚡  When I’m not perfecting pixels or debugging JS, you’ll find me coaching in [Czechitas](https://www.czechitas.cz/en) or sharing my knowledge on [Medium](https://medium.com/@eva.matova6)
 
