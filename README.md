@@ -20,7 +20,6 @@ I’m a product-minded **Senior Software Engineer** with 5+ years of hands-on ex
 
 ### GitHub Stats & Badges
 ![](https://komarev.com/ghpvc/?username=Evita-M&color=C23F84&style=for-the-badge)
-<p align="left"> <a href="https://github.com/Evita-M"> <img src="https://github-readme-stats.vercel.app/api?username=Evita-M&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true" alt="Evita-M's GitHub Stats" /> </a> </p> <p align="left"> <a href="https://github.com/Evita-M"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evita-M&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /> </a> </p>
 
 ### Contributions
 ![snake gif](https://github.com/Evita-M/Evita-M/blob/output/github-contribution-grid-snake-dark.svg)
