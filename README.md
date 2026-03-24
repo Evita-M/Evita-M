@@ -2,7 +2,6 @@
 
 I’m a product-minded **Senior Software Engineer** with 5+ years of hands-on experience who loves turning ideas into polished, scalable, and human-friendly web apps.
 
--   🌍  I'm based in Czechia/Greece
 -   🖥️  See my portfolio at [http://www.eva-matova.work/](http://eva-matova.work)
 -   ✉️  You can contact me at [eva.matova6@gmail.com](mailto:eva.matova6@gmail.com)
 -   🤝  I'm open to collaborating on interesting projects. Half to learn, half to share knowledge and the rest for fun
