@@ -1,6 +1,6 @@
 # Hi, my name is Eva! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
-I’m a product-minded **Senior Software Engineer** with 5+ years of hands-on experience who loves turning ideas into polished, scalable, and human-friendly web apps.
+I’m a product engineer with 6+ years of hands-on experience who loves turning ideas into polished, scalable, and human-friendly web apps.
 
 -   🖥️  See my portfolio at [http://www.eva-matova.work/](http://eva-matova.work)
 -   ✉️  You can contact me at [eva.matova6@gmail.com](mailto:eva.matova6@gmail.com)
